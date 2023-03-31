@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12236de7-6829-4807-a893-777c90983525" name="Changes" comment="" />
+    <list default="true" id="12236de7-6829-4807-a893-777c90983525" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rikkei/academy/CrawlNews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/academy/CrawlNews.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +34,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Java/MD3-Project-CarParkingSimulator",
+    "last_opened_file_path": "D:/Java/MD3-SS19-Ex3-CrawlNews",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +73,7 @@
       <updated>1680238893317</updated>
       <workItem from="1680238893778" duration="109000" />
       <workItem from="1680243340882" duration="2812000" />
+      <workItem from="1680247028586" duration="1296000" />
     </task>
     <servers />
   </component>
