@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12236de7-6829-4807-a893-777c90983525" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD3-SS19-Ex3-CrawlNews.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/CrawlNews.java" afterDir="false" />
-    </list>
+    <list default="true" id="12236de7-6829-4807-a893-777c90983525" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,11 +31,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Java/MD3-SS19-Ex3-CrawlNews",
+    "last_opened_file_path": "D:/Java/MD3-Project-CarParkingSimulator",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -76,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680238893317</updated>
       <workItem from="1680238893778" duration="109000" />
-      <workItem from="1680243340882" duration="1313000" />
+      <workItem from="1680243340882" duration="2812000" />
     </task>
     <servers />
   </component>
